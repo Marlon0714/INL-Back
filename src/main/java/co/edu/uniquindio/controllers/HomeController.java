@@ -16,7 +16,7 @@ public class HomeController {
 
     @GetMapping
     public ResponseEntity<Map<String,String>> healthcheck() {
-        return ResponseEntity.ok().body(Map.of("Status","Up"));
+        return ResponseEntity.ok().body(Map.of("Status","Bienvenido"));
     }
 
 }
