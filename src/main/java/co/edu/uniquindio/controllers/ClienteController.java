@@ -29,7 +29,6 @@ public class ClienteController {
 
     @GetMapping
     public List<ClienteDTO> getAllClientes() {
-        //return ResponseEntity.ok().body(Map.of("Testing","TestingClient"));
         return clienteService.getAllClientes();
     }
 

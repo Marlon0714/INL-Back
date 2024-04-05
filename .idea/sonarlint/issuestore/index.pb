@@ -51,3 +51,5 @@ Bsrc/main/java/co/edu/uniquindio/controllers/ClienteController.java,f\d\fdd8532
 Osrc/main/java/co/edu/uniquindio/services/implementacion/ClienteServiceImpl.java,b\2\b2a859a2e972ebc8366d0d6c20d40cb4aca72ec4
 =
 buildspec.yml,0\2\02f267ba83690ef6f27e7d42ce0f169d1bb30b45
+o
+?src/main/java/co/edu/uniquindio/controllers/HomeController.java,5\d\5da7a9f22f7f735b8213c86728b050a010f2cfc1
